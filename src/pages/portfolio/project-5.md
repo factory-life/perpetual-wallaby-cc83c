@@ -70,4 +70,5 @@ seo:
       value: images/work-magazine-1.jpg
       relativeUrl: true
 template: project
+thumb_image: images/wp7610083.jpg
 ---

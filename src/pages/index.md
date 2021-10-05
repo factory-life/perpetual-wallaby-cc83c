@@ -17,7 +17,7 @@ sections:
     layout_style: tiles
     title: Our design
     subtitle: Explore case studies
-    projects_number: 6
+    projects_number: 5
     view_all_label: View All
     view_all_url: portfolio
   - section_id: lorem-ipsum

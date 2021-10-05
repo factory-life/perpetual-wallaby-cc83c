@@ -21,7 +21,7 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Stackbit technology
     content: >-
       ## Lorem ipsum
 

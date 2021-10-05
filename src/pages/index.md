@@ -12,14 +12,6 @@ sections:
 
 
       ![](images/seo%20and%20code%20cape%20town.webp)
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Our design
-    subtitle: Explore case studies
-    projects_number: 5
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum

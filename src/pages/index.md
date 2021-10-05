@@ -21,6 +21,23 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
   - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    image_alt: lorem-ipsum
+    bg_color: none
+    type: cta_section
+  - section_id: lorem-ipsum
     title: Stackbit technology
     content: >-
       ## Lorem ipsum

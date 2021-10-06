@@ -6,21 +6,11 @@ sections:
     section_id: hero
     title: Cape Town based web development and SEO.
     content: >
-      We are an exiting company offering web design and development packages for
-      businesses who are looking for the latest technologies. We develop using
-      the Stackbit CMS 
+      ## IMG internet consulting
 
 
-
-
-      ![](https://preview--perpetual-wallaby-cc83c.stackbit.dev/images/cta-about.svg)**
-      Deploy**
-
-
-
-
-
-
+      ![](https://preview--perpetual-wallaby-cc83c.stackbit.dev/images/cta-about.svg)\*\*
+      Deploy\*\*
 
 
       .![](images/cta-about.svg)

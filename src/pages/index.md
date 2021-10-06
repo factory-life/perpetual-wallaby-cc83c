@@ -63,19 +63,40 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >
-      ## Lorem ipsum
+      ## **Discover more about how we are able to help your business grow**
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      We help your business grow online and increase sales. Our role is to
+      facilitate the growth of your business through digital strategies and
+      techniques such as SEO and other digital marketing and web design tactics.
 
 
-      *   Lorem ipsum
+      We feel that in 2021 it is essential for any business serious about its
+      future to have a digital strategy in place. IMG is a dedicated and fully
+      professional agency dedicated to delivering results for every single one
+      of our clients.
 
-      *   dolor sit amet
+
+      Having owned numerous businesses spanning from the motorcycle industry to
+      the furniture history I can speak from experience to the value SEO and a
+      powerful digital presence provide. This trend is only going to increase
+      and you will need a strategic partner who can assist you in growing online
+      and becoming a force to be reckoned with. MG can make all this happen for
+      you and we will get you the results and increase your sales.
 
 
-      ![](images/wp7610083.jpg)
+      *   Websites and web applications built on the latest technologies.
+
+      *   Our websites offer serious performance - Ultra fast loading times and
+      perfect code.
+
+      *   SEO is a massive advantage as your site is coded cleaner and is much
+      faster.
+
+
+
+
+      ![](images/seo%20and%20code%20cape%20town-6e19286a.webp)
     actions: []
     type: hero_section
   - type: grid_section

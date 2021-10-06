@@ -42,7 +42,7 @@ sections:
         image_alt: Logo 5
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
+    content: >
       ## Lorem ipsum
 
 
@@ -50,9 +50,12 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
+
+
+      ![](images/wp7610083.jpg)
     actions: []
     type: hero_section
   - type: grid_section

@@ -9,8 +9,37 @@ sections:
       ## IMG internet consulting
 
 
-      ![](https://preview--perpetual-wallaby-cc83c.stackbit.dev/images/cta-about.svg)\*\*
-      Deploy\*\*
+      \*\* Deploy\*\*
+
+
+      *   Internet Marketing consultant business Cape Town.
+          SEO consultant driving business growth through organic traffic.
+          web design specialist in Stellenbosch - WordPress, shopify, webflow, editor x
+
+          ![](images/service-3.svg)
+
+
+      ## **Discover how we can help your business**
+
+
+      We help your business grow online and increase sales. Our role is to
+      facilitate the growth of your business through digital strategies and
+      techniques such as SEO and other digital marketing and web design tactics.
+
+
+
+      We feel that in 2021 it is essential for any business serious about its
+      future to have a digital strategy in place. IMG is a dedicated and fully
+      professional agency dedicated to delivering results for every single one
+      of our clients.
+
+
+      Having owned numerous businesses spanning from the motorcycle industry to
+      the furniture history I can speak from experience to the value SEO and a
+      powerful digital presence provide. This trend is only going to increase
+      and you will need a strategic partner who can assist you in growing online
+      and becoming a force to be reckoned with. MG can make all this happen for
+      you and we will get you the results and increase your sales.
 
 
       .![](images/cta-about.svg)

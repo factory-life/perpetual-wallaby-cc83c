@@ -382,7 +382,7 @@ models:
         name: title
         label: Title
         description: The title of the section
-      - type: markdown
+      - type: html
         name: content
         label: Content
         description: The text content of the section

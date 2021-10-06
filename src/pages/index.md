@@ -60,7 +60,7 @@ sections:
     hide_labels: false
     submit_label: lorem-ipsum
     type: form_section
-  - section_id: IMG C
+  - section_id: IMG i
     title: lorem-ipsum
     content: >
       ## **Discover more about how we are able to help your business grow**

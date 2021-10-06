@@ -6,23 +6,38 @@ sections:
     section_id: hero
     title: A completely modern approach towards Web development
     content: >
-      ## **We build SEO-friendly marketing and eCommerce websites&#xA;**&#xA;
+      ## **We build SEO-friendly marketing and eCommerce websites&#xA;**&#xA;We
+      help create business value for our clients by making use of the latest
+      technologies.
 
 
       \*\* Deploy\*\*
-
-
 
 
       #### **We use the power of JAMstack and server-side rendering to ship
       value to our customers.&#xA;**&#xA;&#xA;
 
 
-      *   Internet Marketing consultant business Cape Town.
-          SEO consultant driving business growth through organic traffic.
-          web design specialist in Stellenbosch - WordPress, shopify, webflow, editor x
+      *   Jamstack is an amazing modern web development architecture based on
+      client-side JavaScript,  reusable API'S and pre-built markup.
 
-          ![](images/service-3.svg)
+      *   Better performance
+
+      *   More secure
+
+      *   Greater scalability
+
+
+
+
+
+      ![](images/service-3.svg)
+
+
+
+
+      ## ****
+
 
       ## **Discover how we can help your business**
 

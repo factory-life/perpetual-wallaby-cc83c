@@ -6,10 +6,16 @@ sections:
     section_id: hero
     title: Web development and web design Cape Town
     content: >
-      ## IMG internet consulting
+      ## **We build SEO-friendly marketing and eCommerce websites&#xA;**&#xA;
 
 
       \*\* Deploy\*\*
+
+
+
+
+      #### **We use the power of JAMstack and server-side rendering to ship
+      value to our customers.&#xA;**&#xA;&#xA;
 
 
       *   Internet Marketing consultant business Cape Town.
@@ -18,14 +24,12 @@ sections:
 
           ![](images/service-3.svg)
 
-
       ## **Discover how we can help your business**
 
 
       We help your business grow online and increase sales. Our role is to
       facilitate the growth of your business through digital strategies and
       techniques such as SEO and other digital marketing and web design tactics.
-
 
 
       We feel that in 2021 it is essential for any business serious about its

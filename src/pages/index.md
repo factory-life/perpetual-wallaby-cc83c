@@ -77,7 +77,7 @@ sections:
     form_action: lorem-ipsum
     form_fields: []
     hide_labels: false
-    submit_label: lorem-ipsum
+    submit_label: Let's connect
     type: form_section
   - section_id: section-img
     title: IMG internet consulting

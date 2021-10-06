@@ -1,10 +1,10 @@
 {
     "color_scheme": "dark",
     "accent_color": "green",
-    "base_font": "fraunces",
+    "base_font": "karla",
     "header": {
         "title": "Agency",
-        "logo": "images/logo.svg",
+        "logo": "images/IMG LOGO.png",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
@@ -69,6 +69,6 @@
             }
         ]
     },
-    "title": "Stackbit Agency Theme",
+    "title": "IMG web development",
     "domain": "https://perpetual-wallaby-cc83c.netlify.app"
 }

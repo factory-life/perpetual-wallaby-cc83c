@@ -65,17 +65,14 @@ sections:
   - section_id: lorem-ipsum
     title: Lets connect
     subtitle: We offer the latest technologies for your business
-    content: >-
-      ## Lorem ipsum
+    content: |
+      *   Websites
 
+      *   Landing pages
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Technical consulting
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   E commerce
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields: []

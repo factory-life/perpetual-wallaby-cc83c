@@ -64,7 +64,7 @@ sections:
       .![](images/cta-about.svg)
   - section_id: lorem-ipsum
     title: Lets connect
-    subtitle: lorem-ipsum
+    subtitle: We offer the latest technologies for your business
     content: >-
       ## Lorem ipsum
 

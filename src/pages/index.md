@@ -15,7 +15,14 @@ sections:
 
 
       #### **We use the power of JAMstack and server-side rendering to ship
-      value to our customers.&#xA;**&#xA;&#xA;
+      value to our customers.**
+
+
+      ![](images/3.jpg)**
+
+      **
+
+
 
 
       *   Jamstack is an amazing modern web development architecture based on
@@ -28,15 +35,10 @@ sections:
       *   Greater scalability
 
 
-
-
-
       ![](images/service-3.svg)
 
 
-
-
-      ## ****
+      ## \*\*\*\*
 
 
       ## **Discover how we can help your business**

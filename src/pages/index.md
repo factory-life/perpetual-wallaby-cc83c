@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Cape Town based web development and SEO.
+    title: I
     content: >
       ## IMG internet consulting
 

@@ -77,6 +77,7 @@ sections:
         new_window: false
         no_follow: false
       - null
+      - null
     type: hero_section
   - type: grid_section
     section_id: services

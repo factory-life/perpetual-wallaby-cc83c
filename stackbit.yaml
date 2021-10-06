@@ -391,6 +391,8 @@ models:
         label: Action buttons
         items:
           type: html
+      - name: ''
+        type: string
     labelField: title
   content_section:
     type: object

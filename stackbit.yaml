@@ -390,9 +390,7 @@ models:
         name: actions
         label: Action buttons
         items:
-          type: model
-          models:
-            - action
+          type: html
     labelField: title
   content_section:
     type: object

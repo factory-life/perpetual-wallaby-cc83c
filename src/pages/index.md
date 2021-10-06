@@ -82,7 +82,7 @@ sections:
       - null
     type: hero_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: We have a suitable
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

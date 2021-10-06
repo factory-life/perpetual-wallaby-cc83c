@@ -63,7 +63,7 @@ sections:
     hide_labels: false
     submit_label: lorem-ipsum
     type: form_section
-  - section_id: lorem-ipsum
+  - section_id: 'section '
     title: IMG internet consulting
     content: >
       ## **Discover more about how we are able to help your business grow**

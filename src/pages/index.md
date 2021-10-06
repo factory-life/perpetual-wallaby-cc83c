@@ -5,13 +5,11 @@ sections:
   - type: hero_section
     section_id: hero
     title: Cape Town based web development and SEO.
-    content: >
+    content: >+
       We are an exiting company offering web design and development packages for
       businesses who are looking for the latest technologies. We develop using
-      the Stackbit CMS system. 
+      the Stackbit CMS system.![](images/cta-about.svg)
 
-
-      ![](images/seo%20and%20code%20cape%20town.webp)
   - type: grid_section
     section_id: clients
     title: Clients

@@ -1,7 +1,7 @@
 {
     "color_scheme": "dark",
     "accent_color": "yellow",
-    "base_font": "system-sans",
+    "base_font": "karla",
     "header": {
         "title": "Agency",
         "logo": "images/IMG LOGO.png",

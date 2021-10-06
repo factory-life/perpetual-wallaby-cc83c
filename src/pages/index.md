@@ -79,6 +79,7 @@ sections:
       - null
       - null
       - null
+      - null
     type: hero_section
   - type: grid_section
     section_id: services

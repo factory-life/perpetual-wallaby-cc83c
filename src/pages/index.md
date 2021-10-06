@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: I
+    title: Web development
     content: >
       ## IMG internet consulting
 

@@ -1,7 +1,7 @@
 {
     "color_scheme": "dark",
     "accent_color": "green",
-    "base_font": "fraunces",
+    "base_font": "system-sans",
     "header": {
         "title": "Agency",
         "logo": "images/wp7610083.jpg",

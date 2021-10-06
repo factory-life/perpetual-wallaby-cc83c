@@ -65,38 +65,7 @@ sections:
     type: form_section
   - section_id: section-img
     title: IMG internet consulting
-    content: >
-      ## **Discover more about how we are able to help your business grow**
-
-
-      We help your business grow online and increase sales. Our role is to
-      facilitate the growth of your business through digital strategies and
-      techniques such as SEO and other digital marketing and web design tactics.
-
-
-      We feel that in 2021 it is essential for any business serious about its
-      future to have a digital strategy in place. IMG is a dedicated and fully
-      professional agency dedicated to delivering results for every single one
-      of our clients.
-
-
-      Having owned numerous businesses spanning from the motorcycle industry to
-      the furniture history I can speak from experience to the value SEO and a
-      powerful digital presence provide. This trend is only going to increase
-      and you will need a strategic partner who can assist you in growing online
-      and becoming a force to be reckoned with. MG can make all this happen for
-      you and we will get you the results and increase your sales.
-
-
-      *   Websites and web applications built on the latest technologies.
-
-      *   Our websites offer serious performance - Ultra fast loading times and
-      perfect code.
-
-      *   SEO is a massive advantage as your site is coded cleaner and is much
-      faster.
-
-
+    content: |
 
 
       ![](images/seo%20and%20code%20cape%20town-6e19286a.webp)

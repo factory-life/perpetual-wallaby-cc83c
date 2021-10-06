@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: 'A '
+    title: 'A completely modern approach towards '
     content: >
       ## **We build SEO-friendly marketing and eCommerce websites&#xA;**&#xA;
 

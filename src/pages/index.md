@@ -63,7 +63,7 @@ sections:
 
       .![](images/cta-about.svg)
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Lets connect
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum

@@ -97,7 +97,13 @@ sections:
 
 
       ![](images/seo%20and%20code%20cape%20town-6e19286a.webp)
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
     type: hero_section
   - type: grid_section
     section_id: services

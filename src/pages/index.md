@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Web development
+    title: Web development and web design Cape Town
     content: >
       ## IMG internet consulting
 

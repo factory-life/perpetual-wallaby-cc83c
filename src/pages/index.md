@@ -76,6 +76,7 @@ sections:
         icon: dribbble
         new_window: false
         no_follow: false
+      - null
     type: hero_section
   - type: grid_section
     section_id: services

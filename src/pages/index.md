@@ -15,14 +15,13 @@ sections:
 
 
       #### **We use the power of JAMstack and server-side rendering to ship
-      value to our customers.**
+      value to our
+      customers.**![](images/DIGITAL%20MARKETING%20AND%20seo%20cAPE%20tOWN.JPG)
 
 
-      ![](images/3.jpg)**
+      \*\*
 
-      **
-
-
+      \*\*
 
 
       *   Jamstack is an amazing modern web development architecture based on
